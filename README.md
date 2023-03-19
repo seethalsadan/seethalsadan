@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Seethal</h1>
 <h3 align="center">A passionate Full Stack developer from Calicut</h3>
 
